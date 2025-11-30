@@ -1,0 +1,2 @@
+ligne 1 via fw1
+ligne 2 via fw2
